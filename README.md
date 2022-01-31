@@ -2,11 +2,11 @@
 
  ✨ My name is Agatha and I'm Software QA Analyst. ✨
  
-I have been working as a test analyst since 2015 and I am currently part of the QA chapter of the Brazilian startup QuintoAndar. I have always been involved in voluntary works and, when I entered the area, I saw that this could be an opportunity to impact people's lives through technology. I am currently taking my first steps in the development area with a focus on the front end.
+I have been working as a test analyst since 2015 and I am currently part of the quality control chapter of the Brazilian startup Sympla. I have always been involved in volunteer work and, when I entered the area, I saw that this could be an opportunity to impact people's lives through technology. I'm currently taking my first steps in the automation testing area with a focus on the javascript language.
  
-When I'm not working, I enjoy reading my favorite books, watching series and movies, meeting friends and drinking beer.
+When I'm not working, I like to read books, watch series and movies, cook, have coffee or just enjoy my home and spend my time doing things I enjoy.
  
-- :blue_heart: In love with HTML/CSS
+- :blue_heart: In love with Cypress / Codecept
 - :computer: I’m looking to collaborate on test automation projects.
 - 🤔 I’m looking for help with JavaScript.
 - 💬 Ask me about software testing, theater, traveling cheap and cool places to visit in São Paulo.
