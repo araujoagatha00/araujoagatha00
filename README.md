@@ -1,16 +1,16 @@
 ### Hello, there! 👋 Welcome to my profile
 
- ✨ My name is Agatha and I'm Software QA Analyst. ✨
- 
-I have been working as a test analyst since 2015 and I am currently part of the quality control chapter of the Brazilian startup Sympla. I have always been involved in volunteer work and, when I entered the area, I saw that this could be an opportunity to impact people's lives through technology. I'm currently taking my first steps in the automation testing area with a focus on the javascript language.
- 
-When I'm not working, I like to read books, watch series and movies, cook, have coffee or just enjoy my home and spend my time doing things I enjoy.
- 
-- :blue_heart: In love with Cypress / Codecept
-- :computer: I’m looking to collaborate on test automation projects.
-- 🤔 I’m looking for help with JavaScript.
-- 💬 Ask me about software testing, theater, traveling cheap and cool places to visit in São Paulo.
-- ⚡ Fun fact: I can read any text very fast and make the best coffee of your life!
+ ✨ My name is Agatha and I'm Software QA Engineer. ✨
+
+I have been working as a test analyst since 2015 and am currently part of the quality team chapter at a company in the financial sector. I have always been involved in volunteer work and, when I entered the field, I saw that this could be an opportunity to impact people's lives through technology. I am currently taking my first steps in the area of ​​automation testing, focusing on JavaScript and the Java language.
+
+When I'm not working, I like to read books, watch series and movies, cook, drink coffee or simply enjoy my home and spend time doing things I enjoy.
+
+- :blue_heart: Passionate about Cypress / Codecept
+- :computer: I am looking to collaborate on test automation projects.
+- 🤔 I am looking for help with JavaScript and Java.
+- 💬 Ask me about software testing, theater, cheap trips and cool places to visit in São Paulo.
+- ⚡ Fun fact: I can read any text very quickly and make the best coffee of your life!
 
 Would you like to find me?
 
